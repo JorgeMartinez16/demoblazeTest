@@ -1,0 +1,24 @@
+
+[
+  {
+    "user": "123",
+    "password": "123"
+  
+  },
+  
+  {
+    "user": "usuario",
+    "password": "contraseña"
+  },
+  {
+    "user": "password",
+    "password": "password"
+  },
+
+  {
+    "user": "123",
+    "password": "123"
+  
+  }
+
+]

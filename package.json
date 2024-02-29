@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.4",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "prettier": "3.2.5"
+  },
+  "scripts": {
+    "lint-fix": "eslint . --ext .js --fix"
+  }
+}
